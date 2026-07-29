@@ -1,7 +1,7 @@
 مجتبی شریفی امین<img alt="image"src="assets/live_banner.png" /><div align="center">
   <h1>ClawWork: OpenClaw as Your AI Coworker</h1>
     <p>
-    <img src="https://img.shields.io/badge/python-≥3.10-blue" alt="Python">
+ <img src="https://img.shields.io/badge/python-≥3.10-blue" alt="Python">
     <img src="https://img.shields.io/badge/license-MIT-green" alt="License">
     <img src="https://img.shields.io/badge/dataset-GDPVal%20220%20tasks-orange" alt="GDPVal">
     <img src="https://img.shields.io/badge/benchmark-economic%20survival-red" alt="Benchmark">
